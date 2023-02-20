@@ -1,0 +1,9 @@
+ID agent	Nume agent		Valoare vanzari
+43		Tofan Alexandu		880000 euro
+44		Machidon Andrei		1.01e+06 euro
+45		Rusu Vlad		370000 euro
+46		Paduraru Cosmin		895000 euro
+47		Raul Geroge		190000 euro
+48		Lazar Cristian		1.13e+06 euro
+49		Turan Paul		240000 euro
+51		Anisiei Patrick		90000 euro
