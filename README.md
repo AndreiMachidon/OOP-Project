@@ -22,7 +22,8 @@ After the objects are loaded into vectors, the application starts and the main m
 
 ![poza_meniu](https://user-images.githubusercontent.com/97346052/220730225-9b5751ef-13bb-4bd4-a362-aace6a1e9dcf.png)<br />
 
-When the user chooses what action to take, he is redirected to a secondary menu where he can choose what information to save or extract.
+When the user chooses what action to take, he is redirected to a secondary menu where he can choose what information to save or extract.<br />
+
 ![poza_selectie](https://user-images.githubusercontent.com/97346052/220730633-24b456ba-12fd-4380-be39-228ace2f50e4.png)<br />
 
 The user can also view or save the contracts archive
